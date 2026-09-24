@@ -1,0 +1,22 @@
+Upward vertical hydraulic gradient statistics
+Variable: vertical total-head gradient between layer 1 and layer 6
+Layer 1 center depth: 0.025 m below land surface
+Layer 6 center depth: 1.50 m below land surface
+Definition: positive values indicate stronger upward hydraulic driving force
+Statistic object: seasonal / annual spatial mean upward vertical hydraulic gradient
+Unit: dimensionless hydraulic gradient
+
+Annual / 全年
+min  = -2.009510
+max  = 161.350809
+mean = -0.405108
+
+Non-flood season / 非汛期（Oct-Jun）
+min  = -2.013747
+max  = 54.223190
+mean = -0.356721
+
+Flood season / 汛期（Jul-Sep）
+min  = -2.023068
+max  = 573.969373
+mean = -0.548689
